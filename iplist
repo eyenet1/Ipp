@@ -1,0 +1,143 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="US"tvg-logo="http://i.imgur.com/S5PsDDR.png",CARTOON NETWORK
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/boomerang.png",BOOMERANG 
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/disney_channel.png",DISNEY CHANNEL
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="http://goldvod.tv/uploads/1500104842806.png",JIM JAM
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:0,==***DOCUMENTARIES***==
+
+#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/national-geographic-hd.png",NATGEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/nat-geo-wild-hd.png",NATGEO Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://i.imgur.com/Wfqt9BS.png",NATGEO people
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTINF:0 group-title="US"tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png",INVESTIGATION DISCOVERY
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="US"tvg-logo="https://x1.cdn.broiptv.online/img/tlc.png",TLC
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="http://nextgen-iptv.com/logo/E!_HR.png",E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="US"tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg",ADULT SWIM
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+
+#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/privatetv.png",PEOPLE TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="http://www.espai.jazztel.es/images/redbulltv.png",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK",BBC 4/CBeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1 tvg-chno="9829" tvg-id="a.e.travel.1" tvg-name="Travel 4U (USA)" tvg-logo="https://i.imgur.com/GFyJviy.png" group-title="TRAVEL",Travel 4U (USA)
+https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:0,==***MOVIES***==
+
+
+#EXTINF:0 group-title="US"tvg-logo="",FAITH USA
+http://hls-live-media.cdn01.net/default/stream_14889.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANITY",CBN (USA)
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.absatellite.net/channel-img/ABS2-ABS6/bible_explorations_tv.png" group-title="CHRISTIANITY",Bible Explorations (USA)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://89rrj5puz31fk9l54floftjs-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/cornerstone.jpg" group-title="CHRISTIANITY",Cornerstone TV (USA)
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://awmsa.net/wp-content/uploads/2018/02/GT-TV.png" group-title="CHRISTIANITY",Gospel Truth TV (USA)
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hopetv.org/wp-content/uploads/2015/02/hopechannelroku.jpg" group-title="CHRISTIANITY",Hope Channel (USA)
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://miraclechannel.ca/wp-content/uploads/2016/08/MC_Logo_Homepage_V2@3x.png" group-title="CHRISTIANITY",Miracle Channel (Canada)
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+
+#EXTINF:0 group-title="US"tvg-logo="",ISN Sid roth
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/amc.png",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/sony-scifi.png",SCIFI
+http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://i.ibb.co/D521B0s/axn.png",AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://www.delvientotv.com.ar/acceso/images/icono/hbo.png",HBO
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+
+#EXTINF:0 group-title="US"tvg-logo="https://i.imgur.com/X6EliFm.png",MBC MAX
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+
+#EXTINF:0 group-title="US"tvg-logo="http://www.vodkom.com:25461/images/nilesatpicon/1_0_1_6_146E_2BE_1040000_0_0_0.png",MBC ACTION
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+
+
+#EXTINF:0 group-title="US"tvg-logo="https://i.imgur.com/WjJ8MHC.png",DUBAI ONE
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+
+
+#EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Campur Movies", AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+ 
+ 
+ #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/Thrill.id.png" group-title="Campur Movies", Thrill
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="Movies",Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+
+
+

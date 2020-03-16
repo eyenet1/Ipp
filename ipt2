@@ -140,4 +140,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swahili" tvg-logo="https://en.wikipedia.org/wiki/KTN_News_Kenya#/media/File:KTN_News_logo.jpg" tvg-country="KE" tvg-url="" group-title="",KTN TV
+https://www.youtube.com/watch?v=rqWd2dTr7kY
 

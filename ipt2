@@ -145,3 +145,21 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title=EDS,&Prive
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+
+
+#EXTINF:0,==***FOOTBALL***==
+#EXTINF:-1,True Premier Football 1
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+ 
+#EXTINF:-1,True Premier Football 2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+ 
+#EXTINF:-1,True Premier Football 3
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+ 
+#EXTINF:-1,True Premier Football 4
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+ 
+#EXTINF:-1,True Premier Football 5
+https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
+ 

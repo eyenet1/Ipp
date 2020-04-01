@@ -85,10 +85,15 @@ http://104.218.60.145:83/live/Delmacostello/8023634654/308924.m3u8
 #EXTINF:-1,VIP HD DISCOVERY SCIENCE
 http://104.218.60.145:83/live/Delmacostello/8023634654/308923.m3u8
 
+#EXTINF:-1,==***MOVIES***==
+#EXTINF:0 group-title="US"tvg-logo="https://i.imgur.com/qn367L8.png",NETFLIX MOVIES
+http://udq.me:80/live/GAdCf/GCaeQ/22517.m3u8
 
+#EXTINF::0 group-title="US"tvg-logo="https://i.imgur.com/qn367L8.png", NETFLIX BOX OFFICE FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/50
 
-
-
+#EXTINF::0 group-title="US"tvg-logo="https://www.goodfitfam.com/wp-content/uploads/2016/01/NetflixKids-300x250.png", NETFLIX KIDS FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/22
 
 #EXTINF:0 group-title="US"tvg-logo="https://x1.cdn.broiptv.online/img/tlc.png",TLC
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
@@ -97,21 +102,10 @@ https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 #EXTINF:0 group-title="US"tvg-logo="http://nextgen-iptv.com/logo/E!_HR.png",E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="US"tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg",ADULT SWIM
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-
-#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/privatetv.png",PEOPLE TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-
-
-#EXTINF:0 group-title="US"tvg-logo="http://www.espai.jazztel.es/images/redbulltv.png",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK",BBC 4/CBeebies
 http://51.52.156.22:8888/http/003
 
-#EXTINF:-1 tvg-chno="9829" tvg-id="a.e.travel.1" tvg-name="Travel 4U (USA)" tvg-logo="https://i.imgur.com/GFyJviy.png" group-title="TRAVEL",Travel 4U (USA)
-https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:0,==***MOVIES***==
 
@@ -148,17 +142,11 @@ http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/sony-scifi.png",SCIFI
-http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:0 group-title="US"tvg-logo="https://i.ibb.co/D521B0s/axn.png",AXN
 http://210.210.155.66/h/h141/01.m3u8
 
-
-#EXTINF:0 group-title="US"tvg-logo="https://www.delvientotv.com.ar/acceso/images/icono/hbo.png",HBO
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 
 #EXTINF:0 group-title="US"tvg-logo="https://i.imgur.com/X6EliFm.png",MBC MAX
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
@@ -171,33 +159,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
 
-#EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Campur Movies", AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
- 
- 
- #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/Thrill.id.png" group-title="Campur Movies", Thrill
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swahili" tvg-logo="https://i.imgur.com/uT71Hbu.png" tvg-country="KE" tvg-url="" group-title="",Citizen TV
-https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title=EDS,&Flix
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title=EDS,&Prive
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 
 
 #EXTINF:0,==***FOOTBALL***==

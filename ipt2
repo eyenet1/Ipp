@@ -18,6 +18,11 @@ https://vbkt.ga/CN111
 #EXTINF:0 group-title="US"tvg-logo="https://en.wikipedia.org/wiki/Nickelodeon#/media/File:Nickelodeon_2009_logo.svg",NICK +1
 https://vbkt.ga/nikkk111
 
+#EXTINF:-1,Nick Jr.
+http://178.159.5.210:1000/play/NickJr/index.m3u8
+#EXTINF:-1,Nicktoons
+http://178.159.5.210:1000/play/Nicktoons/index.m3u8
+
 #EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/boomerang.png",BOOMERANG 
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 

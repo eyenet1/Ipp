@@ -3,6 +3,9 @@
 
 
 
+#EXTINF:0 group-title="US"tvg-logo="https://cdn.imgbin.com/25/5/21/imgbin-logo-disney-junior-mickey-mouse-disney-la-cha-ne-disney-channel-mickey-mouse-ktnQKcR1qqRi2Lmchsbjq3sbV.jpg",Disney Jr
+http://104.218.60.145:83/live/Delmacostello/8023634654/331999.m3u8
+
 #EXTINF:0 group-title="US"tvg-logo="http://i.imgur.com/S5PsDDR.png",CARTOON NETWORK
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
@@ -29,9 +32,18 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/boomerang.png",UK BOOMERANG SD
 http://178.159.5.210:1000/play/Boomerang/index.m3u8
 
+#EXTINF:-1,VIP HD UNIVERSAL KIDS
+http://104.218.60.145:83/live/Delmacostello/8023634654/308769.m3u8
+
 #EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/disney_channel.png",DISNEY CHANNEL
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,VIP HD DISNEY CHANNEL
+http://104.218.60.145:83/live/Delmacostello/8023634654/308921.m3u8
+#EXTINF:-1,VIP HD DISNEY JNR
+http://104.218.60.145:83/live/Delmacostello/8023634654/308920.m3u8
+#EXTINF:-1,VIP HD DISNEY XD
+http://104.218.60.145:83/live/Delmacostello/8023634654/308919.m3u8
 
 #EXTINF:0 group-title="US"tvg-logo="http://goldvod.tv/uploads/1500104842806.png",JIM JAM
 http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
@@ -43,12 +55,6 @@ http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/national-geographic-hd.png",NATGEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 
-
-
-
-
-
-
 #EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/nat-geo-wild-hd.png",NATGEO Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
@@ -58,6 +64,27 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 #EXTINF:0 group-title="US"tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png",INVESTIGATION DISCOVERY
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,VIP HD CRIME AND INVESTIGATION
+http://104.218.60.145:83/live/Delmacostello/8023634654/308931.m3u8
+#EXTINF:-1,VIP HD DESTINATION AMERICA
+http://104.218.60.145:83/live/Delmacostello/8023634654/308928.m3u8
+#EXTINF:-1,VIP FHD DISCOVERY CHANNEL
+http://104.218.60.145:83/live/Delmacostello/8023634654/308927.m3u8
+#EXTINF:-1,VIP HD DISCOVERY CHANNEL
+http://104.218.60.145:83/live/Delmacostello/8023634654/308926.m3u8
+#EXTINF:-1,VIP HD DISCOVERY FAMILY
+http://104.218.60.145:83/live/Delmacostello/8023634654/308925.m3u8
+#EXTINF:-1,VIP HD DISCOVERY LIFE
+http://104.218.60.145:83/live/Delmacostello/8023634654/308924.m3u8
+#EXTINF:-1,VIP HD DISCOVERY SCIENCE
+http://104.218.60.145:83/live/Delmacostello/8023634654/308923.m3u8
+
+
+
+
+
 
 #EXTINF:0 group-title="US"tvg-logo="https://x1.cdn.broiptv.online/img/tlc.png",TLC
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8

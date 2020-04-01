@@ -6,6 +6,9 @@
 #EXTINF:0 group-title="US"tvg-logo="http://i.imgur.com/S5PsDDR.png",CARTOON NETWORK
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="FR:  Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="France",FR:  Cartoon Network 
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1770
+
 
 #EXTINF:0 group-title="US"tvg-logo="https://iptvx.one/icn/boomerang.png",BOOMERANG 
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8

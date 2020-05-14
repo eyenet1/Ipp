@@ -1,10 +1,141 @@
 #EXTM3U
 
-
-
-
-#EXTINF:0 group-title="US"tvg-logo="https://cdn.imgbin.com/25/5/21/imgbin-logo-disney-junior-mickey-mouse-disney-la-cha-ne-disney-channel-mickey-mouse-ktnQKcR1qqRi2Lmchsbjq3sbV.jpg",Disney Jr
-http://104.218.60.145:83/live/Delmacostello/8023634654/331999.m3u8
+#EXTINF:-1,BBC 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1495.m3u8
+#EXTINF:-1,BBC 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1496.m3u8
+#EXTINF:-1,BBC 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1497.m3u8
+#EXTINF:-1,BBC 4 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1498.m3u8
+#EXTINF:-1,BBC News
+http://vip1080.us:8000/live/Hakan/asdfghj/6922.m3u8
+#EXTINF:-1,CBBC
+http://vip1080.us:8000/live/Hakan/asdfghj/6920.m3u8
+#EXTINF:-1,ITV 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1505.m3u8
+#EXTINF:-1,ITV 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1506.m3u8
+#EXTINF:-1,ITV 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1507.m3u8
+#EXTINF:-1,ITV 4
+http://vip1080.us:8000/live/Hakan/asdfghj/6923.m3u8
+#EXTINF:-1,ITV BE HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1508.m3u8
+#EXTINF:-1,E4
+http://vip1080.us:8000/live/Hakan/asdfghj/6928.m3u8
+#EXTINF:-1,UTV
+http://vip1080.us:8000/live/Hakan/asdfghj/6930.m3u8
+#EXTINF:-1,FILM 4
+http://vip1080.us:8000/live/Hakan/asdfghj/6927.m3u8
+#EXTINF:-1,MORE 4
+http://vip1080.us:8000/live/Hakan/asdfghj/6926.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://vip1080.us:8000/live/Hakan/asdfghj/6950.m3u8
+#EXTINF:-1,CHANNEL 4
+http://vip1080.us:8000/live/Hakan/asdfghj/6924.m3u8
+#EXTINF:-1,CHANNEL 5
+http://vip1080.us:8000/live/Hakan/asdfghj/6925.m3u8
+#EXTINF:-1,ALIBI
+http://vip1080.us:8000/live/Hakan/asdfghj/6947.m3u8
+#EXTINF:-1,DAVE
+http://vip1080.us:8000/live/Hakan/asdfghj/6951.m3u8
+#EXTINF:-1,E!
+http://vip1080.us:8000/live/Hakan/asdfghj/6948.m3u8
+#EXTINF:-1,QUEST
+http://vip1080.us:8000/live/Hakan/asdfghj/6962.m3u8
+#EXTINF:-1,TLC
+http://vip1080.us:8000/live/Hakan/asdfghj/6963.m3u8
+#EXTINF:-1,SKY ONE HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7427.m3u8
+#EXTINF:-1,CNN INT.
+http://vip1080.us:8000/live/Hakan/asdfghj/32670.m3u8
+#EXTINF:-1,Fox News HD UK
+http://vip1080.us:8000/live/Hakan/asdfghj/6933.m3u8
+#EXTINF:-1,CNBC
+http://vip1080.us:8000/live/Hakan/asdfghj/32697.m3u8
+#EXTINF:-1,EURONEWS
+http://vip1080.us:8000/live/Hakan/asdfghj/6934.m3u8
+#EXTINF:-1,BLOOMBERG
+http://vip1080.us:8000/live/Hakan/asdfghj/6939.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1504.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1503.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1502.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://vip1080.us:8000/live/Hakan/asdfghj/6959.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://vip1080.us:8000/live/Hakan/asdfghj/6958.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://vip1080.us:8000/live/Hakan/asdfghj/6964.m3u8
+#EXTINF:-1,HISTORY HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1513.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://vip1080.us:8000/live/Hakan/asdfghj/6961.m3u8
+#EXTINF:-1,DISCOVERY
+http://vip1080.us:8000/live/Hakan/asdfghj/6954.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://vip1080.us:8000/live/Hakan/asdfghj/6952.m3u8
+#EXTINF:-1,CRIME & INVERSTIGATION
+http://vip1080.us:8000/live/Hakan/asdfghj/6949.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://vip1080.us:8000/live/Hakan/asdfghj/6955.m3u8
+#EXTINF:-1,SKY ARTS 1
+http://vip1080.us:8000/live/Hakan/asdfghj/6945.m3u8
+#EXTINF:-1,SKY THRILLER HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1490.m3u8
+#EXTINF:-1,Sky News HD UK
+http://vip1080.us:8000/live/Hakan/asdfghj/1499.m3u8
+#EXTINF:-1,SKY ATLANTIC
+http://vip1080.us:8000/live/Hakan/asdfghj/6946.m3u8
+#EXTINF:-1,CBS REALITY HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1509.m3u8
+#EXTINF:-1,CBS DRAMA HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1510.m3u8
+#EXTINF:-1,CBS ACTION JUSTICE HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1511.m3u8
+#EXTINF:-1,MOVIES THRILLER HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1514.m3u8
+#EXTINF:-1,MOVIES DRAMA HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1515.m3u8
+#EXTINF:-1,MOVIES DISNEY HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1516.m3u8
+#EXTINF:-1,MOVIES COMEDY HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1517.m3u8
+#EXTINF:-1,MOVIES ACTION HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1518.m3u8
+#EXTINF:-1,BT SPORT 1
+http://vip1080.us:8000/live/Hakan/asdfghj/4758.m3u8
+#EXTINF:-1,BT SPORT 2
+http://vip1080.us:8000/live/Hakan/asdfghj/4759.m3u8
+#EXTINF:-1,BT SPORT 3
+http://vip1080.us:8000/live/Hakan/asdfghj/4760.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1512.m3u8
+#EXTINF:-1,EVELEVEN SPORTS 1
+http://vip1080.us:8000/live/Hakan/asdfghj/32749.m3u8
+#EXTINF:-1,PREMIERE SPORTS
+http://vip1080.us:8000/live/Hakan/asdfghj/32743.m3u8
+#EXTINF:-1,SETANTA/PREMIERE SPORTS
+http://vip1080.us:8000/live/Hakan/asdfghj/32754.m3u8
+#EXTINF:-1,SETANTA SPORTS HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1501.m3u8
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1016.m3u8
+#EXTINF:-1,SKY SPORT CRICKET HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1017.m3u8
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1018.m3u8
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1019.m3u8
+#EXTINF:-1,SKY SPORTS F1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1020.m3u8
+#EXTINF:-1,Sky Sport Main Event HD
+http://vip1080.us:8000/live/Hakan/asdfghj/22754.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://vip1080.us:8000/live/Hakan/asdfghj/22755.m3u8
 
 #EXTINF:0 group-title="US"tvg-logo="http://i.imgur.com/S5PsDDR.png",CARTOON NETWORK
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
